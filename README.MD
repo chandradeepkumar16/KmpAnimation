@@ -24,3 +24,9 @@ To run the application on iPhone device/simulator:
 ### Browser
 Run the browser application: `./gradlew :composeApp:jsBrowserDevelopmentRun`
 
+###Demo Video
+##Android and Desktop Version
+![](C:/Users/Admin/Pictures/Screenshots/Screenshot 2023-09-12 232836.png)
+
+##Web 
+![](C:/Users/Admin/Pictures/Screenshots/Screenshot 2023-09-12 233654.png)
