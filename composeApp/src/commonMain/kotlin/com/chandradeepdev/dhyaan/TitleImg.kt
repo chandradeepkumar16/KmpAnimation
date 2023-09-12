@@ -9,6 +9,7 @@ import androidx.compose.ui.draw.clip
 import androidx.compose.ui.layout.ContentScale
 import org.jetbrains.compose.resources.painterResource
 
+//composable function to load the img in all platforms
 @Composable
 fun TitleImage() {
     Image(
