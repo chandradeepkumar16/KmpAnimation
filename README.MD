@@ -24,3 +24,8 @@ To run the application on iPhone device/simulator:
 ### Browser
 Run the browser application: `./gradlew :composeApp:jsBrowserDevelopmentRun`
 
+##Android and Desktop Demo
+https://github.com/chandradeepkumar16/KmpAnimation/assets/62211734/c6451d9c-b6aa-41db-89c2-398c7fcf63e3
+
+##Web Demo
+https://github.com/chandradeepkumar16/KmpAnimation/assets/62211734/2df99f72-453a-424b-a056-26e52fc6f234
