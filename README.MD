@@ -1,4 +1,8 @@
+
 # Compose Multiplatform Application
+
+Kotlin Multiplatform with jetpack compose offers you to build app on Android , IOS , Web and Windows. Here's i have tried building a simple animation app with jetpack compose
+
 
 ## Before running!
  - check your system with [KDoctor](https://github.com/Kotlin/kdoctor)
@@ -29,3 +33,12 @@ https://github.com/chandradeepkumar16/KmpAnimation/assets/62211734/c6451d9c-b6aa
 
 Web Demo
 https://github.com/chandradeepkumar16/KmpAnimation/assets/62211734/2df99f72-453a-424b-a056-26e52fc6f234
+
+## Android and Desktop Demo Images
+
+![App Screenshot](https://github.com/chandradeepkumar16/KmpAnimation/assets/62211734/c6451d9c-b6aa-41db-89c2-398c7fcf63e3
+)
+
+## Web Demo Images
+![App Screenshot](https://github.com/chandradeepkumar16/KmpAnimation/assets/62211734/2df99f72-453a-424b-a056-26e52fc6f234
+)
